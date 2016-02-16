@@ -1,2 +1,2 @@
 # evernote-tools
-Tools of evernote with geektool
+Tools of evernote with geeknote
